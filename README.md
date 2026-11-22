@@ -61,3 +61,27 @@ The dataset contains 284,807 transactions and 30 model input features, along wit
 ## Important Note
 
 TrustAI is an academic prototype. Its predictions are not verified fraud findings and must not be used for real financial decisions.
+
+## Dashboard Preview
+
+![TrustAI Dashboard](images/dashboard.png)
+
+## Model Performance
+
+TrustAI compares two machine learning models:
+
+| Metric | Logistic Regression | Random Forest |
+|---|---:|---:|
+| Accuracy | 97.53% | 99.94% |
+| Precision | 5.64% | 88.61% |
+| Recall | 87.37% | 73.68% |
+| F1-Score | 10.59% | 80.46% |
+
+Random Forest achieved a higher F1-score and precision on the test dataset.
+
+## Limitations
+
+- This project is an educational machine learning prototype.
+- The dataset contains anonymized PCA-transformed features.
+- Predictions should not be treated as confirmed real-world fraud.
+- Further testing is required before any real-world use.

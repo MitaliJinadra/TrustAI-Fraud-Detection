@@ -49,6 +49,12 @@ The dataset contains 284,807 transactions and 30 model input features, along wit
 
    streamlit run app.py
 
+   ## Live Demo
+
+**Try TrustAI online:** https://trustai-fraud-detection-mitali.streamlit.app/
+
+Explore the interactive dashboard, upload transaction data, compare model predictions, and download the prediction report.
+
 ## Project Structure
 
 - app.py – Streamlit dashboard

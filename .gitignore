@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (large file)
+dataset/creditcard.csv
+
+# Backup files
+app_backup.py
+app_before_final_update.py
+
+# Editor settings
+.vscode/

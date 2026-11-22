@@ -62,7 +62,7 @@ Explore the interactive dashboard, upload transaction data, compare model predic
 - compare_models.py – Model comparison
 - requirements.txt – Project dependencies
 - models/ – Saved machine learning models
-- dataset/ – Dataset folder
+- dataset/ – Local dataset folder (not included in the repository)
 
 ## Important Note
 
